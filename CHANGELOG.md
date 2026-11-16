@@ -6,6 +6,10 @@ Format angelehnt an [Keep a Changelog](https://keepachangelog.com/de/), Versione
 
 ## [Unveröffentlicht]
 
+### Geändert
+
+- **Repo umbenannt:** EdukSX-Ident heisst jetzt EduKSX-Ident; Links in SECURITY, CONTRIBUTING, Issue-Vorlagen und `docs/third-party.json` angepasst.
+
 ### Neu
 
 - **Grundgerüst (#2):** Laravel 13 mit `eduksx/core` (Modulschlüssel `ident`, Fehler als problem+json, Konformitätstest).
