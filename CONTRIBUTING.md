@@ -4,7 +4,7 @@ Danke für Rückmeldungen und Beiträge! **Datenschutz:** Keine echten Personend
 
 ## Fehler melden und Ideen vorschlagen
 
-[Neues Issue](https://github.com/MarkusKeller8200/EdukSX-Ident/issues/new/choose) mit einer der Vorlagen. Neue Meldungen erhalten
+[Neues Issue](https://github.com/MarkusKeller8200/EduKSX-Ident/issues/new/choose) mit einer der Vorlagen. Neue Meldungen erhalten
 automatisch die Art und **`triage`**:
 
 | Vorlage              | Labels                          | Meilenstein (automatisch) |
