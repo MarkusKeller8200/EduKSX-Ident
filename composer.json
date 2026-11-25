@@ -11,7 +11,7 @@
     ],
     "license": "AGPL-3.0-or-later",
     "require": {
-        "php": "^8.4",
+        "php": "^8.5",
         "eduksx/core": "^0.1",
         "laravel/framework": "^13.17",
         "laravel/tinker": "^3.0"
