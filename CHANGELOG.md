@@ -6,6 +6,10 @@ Format angelehnt an [Keep a Changelog](https://keepachangelog.com/de/), Versione
 
 ## [Unveröffentlicht]
 
+### Geändert
+
+- **Stack (#17):** PHP 8.5, CI mit PostgreSQL 18 (EduKSX-Architektur KONZEPT-STACK ST2).
+
 ### Neu
 
 - **Grundgerüst (#2):** Laravel 13 mit `eduksx/core` (Modulschlüssel `ident`, Fehler als problem+json, Konformitätstest).
